@@ -33,6 +33,5 @@ Welcome to my Github! I'm Wrkdev, a full stack software developer furthering my 
   <a href="https://twitter.com/wrkdev">
     <img align="left" alt="Wrkdev | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
   </a>
-</p>
-<br/>
+</p>&nbsp;&nbsp;
 ⭐️ From [Wrkdev](https://github.com/wrkdev)
