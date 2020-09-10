@@ -1,28 +1,40 @@
-<h2> Hey there! I'm Wrkdev.</h2>
+[![Wrkdev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wrkdev&show_icons=true)](https://github.com/wrkdev)
 
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Full Stack Software Developer
-- 🌱 &nbsp; Learning Python and furthering my web development knowledge.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Python | PHP
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Express
-- 🛢 &nbsp; MySQL
-- 🔧 &nbsp; Git
 
 <br/>
 
-[![Wrkdev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wrkdev&show_icons=true)](https://github.com/wrkdev)
+Welcome to my Github! I'm Wrkdev, a full stack software developer furthering my knowledge in web development. Through self study and watching many youtube videos, I am slowly trying to build my portfolio of languages to include procedural and Object-Oriented languages not just focussing on Web development technologies (which I have used a lot).
+
+<h3> 👷‍♂️ I'm currently working on</h3>
+
+- Building a [Custom API](https://github.com/wrkdev/custom-api) while learning express and furthering my javascript knowledge.
+
+<h3>🛠 Technologies I am currently using</h3>
+
+<a href="" target="_blank"><img height="40" src="http://3con14.biz/code/_data/js/intro/js-logo.png"></a>
+<a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a>
+<a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a>
+<a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a>
+<a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></a>
+<a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></a>
+<a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></a>
+<a href="" target="_blank"><img height="40" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_apache.png?raw=true"></a>
+<a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></a>
+
+<br/>
+
+<h3>🌱 Looking forward to learn:</h3>
+<a href="" target="_blank"><img height="40" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true"></a>
+<a href="" target="_blank"><img height="40" src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png"></a>
+
+<br/>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://twitter.com/wrkdev"><img alt="Twitter" src="https://img.shields.io/badge/Twitter?style=flat-square&logo=google-chrome"></a>
+  <a href="https://twitter.com/wrkdev">
+    <img align="left" alt="Wrkdev | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
+  </a>
 </p>
 
 ⭐️ From [Wrkdev](https://github.com/wrkdev)
