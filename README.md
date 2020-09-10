@@ -2,7 +2,7 @@
 
 <br/>
 
-Welcome to my Github! I'm Wrkdev, a full stack software developer furthering my knowledge in web development. Through self study and watching many youtube videos, I am slowly trying to build my portfolio of languages to include procedural and Object-Oriented languages not just focussing on Web development technologies (which I have used a lot).
+Welcome to my Github! I'm James, a full stack software developer furthering my knowledge in web development. Through self study and watching many youtube videos, I am slowly trying to build my portfolio of languages to include procedural and Object-Oriented languages not just focussing on Web development technologies (which I have used a lot).
 
 <h3> 👷‍♂️ I'm currently working on</h3>
 
