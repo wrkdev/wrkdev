@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Original Source.</h2>
+<h2> Hey there! I'm The Original Source.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -18,7 +18,7 @@
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wrkdev&show_icons=true)](https://github.com/AVS1508)
+[![The Original Source's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wrkdev&show_icons=true)](https://github.com/AVS1508)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
