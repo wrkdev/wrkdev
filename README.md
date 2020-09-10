@@ -21,8 +21,6 @@ Welcome to my Github! I'm Wrkdev, a full stack software developer furthering my 
 <a href="" target="_blank"><img height="40" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_apache.png?raw=true"></a>
 <a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></a>
 
-<br/>
-
 <h3>🌱 Looking forward to learn:</h3>
 <a href="" target="_blank"><img height="40" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true"></a>
 <a href="" target="_blank"><img height="40" src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png"></a>
@@ -36,5 +34,5 @@ Welcome to my Github! I'm Wrkdev, a full stack software developer furthering my 
     <img align="left" alt="Wrkdev | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
   </a>
 </p>
-
+<br/>
 ⭐️ From [Wrkdev](https://github.com/wrkdev)
