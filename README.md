@@ -26,13 +26,12 @@ Welcome to my Github! I'm Wrkdev, a full stack software developer furthering my 
 
 <br/>
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> ☕ Get in touch </h3>
 
-<p align="center">
-  <a href="https://twitter.com/wrkdev">
-    <img align="left" alt="Wrkdev | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
-  </a>
-</p>
+Twitter: [Wrkdev](https://twitter.com/wrkdev)
+Website: Coming Soon
+
+
 <br/>
 
 [![Wrkdev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wrkdev&show_icons=true)](https://github.com/wrkdev)
