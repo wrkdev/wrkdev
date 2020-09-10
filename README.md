@@ -1,5 +1,5 @@
 [![Wrkdev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wrkdev&show_icons=true)](https://github.com/wrkdev)
-<img src= "https://github.com/wrkdev/wrkdev/blob/master/wrkdev.jpg?raw=true" height="195" width="350"></img>
+<img src= "https://github.com/wrkdev/wrkdev/blob/master/wrkdev.jpg?raw=true" height="195" width="330"></img>
 
 <br/>
 
