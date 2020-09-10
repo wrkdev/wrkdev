@@ -1,5 +1,4 @@
-[![Wrkdev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wrkdev&show_icons=true)](https://github.com/wrkdev)
-<img src= "https://github.com/wrkdev/wrkdev/blob/master/wrkdev.jpg?raw=true" height="195" width="300"></img>
+<img src= "https://github.com/wrkdev/wrkdev/blob/master/wrkdev.jpg?raw=true" height="500"></img>
 
 <br/>
 
@@ -34,5 +33,8 @@ Welcome to my Github! I'm Wrkdev, a full stack software developer furthering my 
     <img align="left" alt="Wrkdev | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
   </a>
 </p>
+<br/>
+
+[![Wrkdev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wrkdev&show_icons=true)](https://github.com/wrkdev)
 <br/>
 ⭐️ From [Wrkdev](https://github.com/wrkdev)
