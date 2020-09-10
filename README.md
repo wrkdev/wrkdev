@@ -28,8 +28,8 @@ Welcome to my Github! I'm Wrkdev, a full stack software developer furthering my 
 
 <h3> ☕ Get in touch </h3>
 
-Twitter: [Wrkdev](https://twitter.com/wrkdev)
-Website: Coming Soon
+- Twitter: [Wrkdev](https://twitter.com/wrkdev)
+- Website: Coming Soon
 
 
 <br/>
