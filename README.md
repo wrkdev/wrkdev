@@ -15,7 +15,7 @@ Welcome to my Github! I'm James, a full stack software developer furthering my k
 <h3>🌱 Looking forward to learn:</h3>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white"/>
 
-<!-- <br/> -->
+<br/>
 
 <h3> ☕ Get in touch </h3>
 
