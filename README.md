@@ -7,6 +7,7 @@ Welcome to my Github! I'm James, a full stack software developer furthering my k
 <h3> 👷‍♂️ I'm currently working on</h3>
 
 - Building a [Custom API](https://github.com/wrkdev/custom-api) while learning express and furthering my javascript knowledge.
+- Building a Frontend Application to interface with the custom api I am writing.
 
 <h3>🛠 Technologies I am currently using</h3>
 
