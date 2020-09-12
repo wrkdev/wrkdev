@@ -1,4 +1,5 @@
 <img src= "https://github.com/wrkdev/wrkdev/blob/master/wrkdev.jpg?raw=true" height="500"></img>
+![Profile views](https://gpvc.arturio.dev/wrkdev)
 
 <br/>
 
