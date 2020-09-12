@@ -14,7 +14,7 @@ Welcome to my Github! I'm James, a full stack software developer furthering my k
 
 <h3>🌱 Looking forward to learn:</h3>
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="50"/> <img width="50" height="50" alt="express" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_apache.png?raw=true">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="50"/> <img width="50" height="50" alt="express" src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png">
 
 <br/>
 
