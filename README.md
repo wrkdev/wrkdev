@@ -12,7 +12,6 @@ Welcome to my Github! I'm James, a full stack software developer furthering my k
 
 <a href="" target="_blank"><img height="40" src="http://3con14.biz/code/_data/js/intro/js-logo.png"></a>
 <a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a>
-<a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a>
 <a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a>
 <a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></a>
 <a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></a>
