@@ -16,13 +16,11 @@ Welcome to my Github! I'm James, a full stack software developer furthering my k
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="50"/>
 
-<br/>
 
 <h3> ☕ Get in touch </h3>
 
 - Twitter: [Wrkdev](https://twitter.com/wrkdev)
 - Website: Coming Soon
-
 
 <br/>
 
